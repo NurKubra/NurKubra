@@ -14,7 +14,7 @@
  ---
  
  
-- 🌱 I'm currently learning **PostgreSQL** 
+- 🌱 I'm currently learning **SpringBoot** 
 - 📫 How to reach me **kubraanurcevik@outlook.de** 
 - ⚡ Languages I can speak: **English, German, Turkish**
 
