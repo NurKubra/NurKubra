@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=NurKubra&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi 👋, I'm Kübra Nur Sen</h1> 
+<h1 align="center">Hi 👋, I'm Kübra N. Sen</h1> 
 <h3 align="center">A passionate Full Stack Java Developer from Germany.</h3> 
 
 <img align="right" alt="Coding" width="360" src="https://blog.casebook.net/hubfs/58879-multitasking-woman.gif">
