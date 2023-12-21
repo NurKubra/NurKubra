@@ -13,8 +13,6 @@
  
  ---
  
- 
-- 🌱 I'm currently learning **JavaScript** 
 - 📫 How to reach me **kubraanurcevik@outlook.de** 
 - ⚡ Languages I can speak: **English, German, Turkish**
 
